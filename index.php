@@ -1,3 +1,3 @@
 <?php
-    echo "Hi";
+    header("Location: connect-ar.html");
 ?>
